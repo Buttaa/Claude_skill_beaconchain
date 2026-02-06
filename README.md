@@ -80,7 +80,7 @@ The beaconcha.in API enforces rate limits by plan. The skill includes guidance o
 
 The skill primarily uses V2 endpoints (POST with JSON body), falling back to V1 (GET) only for slot-level detail and validator attestation/proposal history which don't have V2 equivalents. All reward values are in wei and scripts convert to ETH automatically.
 
-Supported networks: Mainnet, Holesky (testnet), Gnosis.
+Supported networks: Mainnet, Hoodi (testnet).
 
 ## Scripts
 
