@@ -1,4 +1,4 @@
-# beaconchain-explorer
+# Claude skill for beaconcha.in
 
 A Claude skill for querying the [beaconcha.in](https://beaconcha.in) API to look up Ethereum validators, analyze staking rewards, explore blocks and epochs, and monitor network health.
 
